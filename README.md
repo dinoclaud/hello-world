@@ -1,1 +1,3 @@
 # hello-world
+
+Just recalling git funtionalities previouslly learned...
